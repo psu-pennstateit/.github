@@ -6,6 +6,8 @@ If you are a Penn State IT member who wishes to use Penn State's GitHub Enterpri
 
 When you are ready, [sign up for Penn State's GitHub Enterprise Cloud](https://pennstate.service-now.com/sp?id=kb_article_view&sysparm_article=KB0019812&sys_kb_id=4023919dc33f8a5062ca32cf050131e0&spa=1)
 
+Then, email a request to github-support@psu.edu to be added to this orginization!
+
 More information about this service, see: https://github.psu.edu
 <!--
 
